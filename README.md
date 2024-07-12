@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @BrandonU27
-- 👀 I’m interested in software engineering and finding out how things work around me. I love to relax by playing video games other then that youll find me on my computer learning as much as possible.
-- 🌱 I’m currently learning at Full Sail University. In their Computer Science BS program.
-- 💞️ I’m looking to collaborate on anything. The more I do the more I learn. I'm open to tips and will be happy to see if I could do something better.
-- 📫 How to reach me? My Twitter user is brandon_untea
+👋 Hi, I’m @BrandonU27
+👀 I’m passionate about software engineering and have a major interest in understanding the intricacies of technology around me. You'll often find me immersed in learning on my computer.
+🌱 I hold a BS in Computer Science from Full Sail University, equipped with comprehensive knowledge in software development.
+🏓 I possess a unique knack for mastering programming languages like C++, Rust, and C#, often exploring unconventional solutions to challenging problems.
+💼 Open to collaboration opportunities across diverse projects. I thrive on continuous learning and welcome constructive feedback to enhance my skills.
+
+PS. Apologies in advance if you ask me for a language recommendation and all you hear is Rust this and Rust that. (It's a bit of a habit!)
 
 <!---
 BrandonU27/BrandonU27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
