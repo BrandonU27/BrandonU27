@@ -4,8 +4,6 @@
 🏓 I possess a unique knack for mastering programming languages like C++, Rust, and C#, often exploring unconventional solutions to challenging problems.
 💼 Open to collaboration opportunities across diverse projects. I thrive on continuous learning and welcome constructive feedback to enhance my skills.
 
-PS. Apologies in advance if you ask me for a language recommendation and all you hear is Rust this and Rust that. (It's a bit of a habit!)
-
 <!---
 BrandonU27/BrandonU27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
